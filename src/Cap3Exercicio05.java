@@ -10,10 +10,10 @@ import java.util.Scanner;
 public class Cap3Exercicio05 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
-        System.out.println("Qual o tamho do vetor ");
+        System.out.println("Qual o tamho do vetor A");
         int tamanhoA = teclado.nextInt();
         int[] vetorA = new int[tamanhoA];
-        System.out.println("Qual o tamho do vetor ");
+        System.out.println("Qual o tamho do vetor B");
         int tamanhoB = teclado.nextInt();
         int[] vetorB = new int[tamanhoB];
         int intersecaoIndex = 0;
