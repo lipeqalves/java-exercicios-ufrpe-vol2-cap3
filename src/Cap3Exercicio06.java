@@ -8,7 +8,7 @@
  * o
  * resultado da matriz soma destas matrizes.
  */
-public class Exercicio06 {
+public class Cap3Exercicio06 {
     public static void main(String[] args) {
         
     }

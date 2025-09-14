@@ -6,7 +6,7 @@
  */
 
 import java.util.Scanner;
-public class Exercicio01 {
+public class Cap3Exercicio01 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         int soma = 0;

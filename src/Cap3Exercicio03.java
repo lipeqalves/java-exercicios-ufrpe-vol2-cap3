@@ -8,7 +8,7 @@ import java.util.Scanner;
  * informado, respectivamente o nome e a média dos alunos com a melhor e a pior média
  * dentre os valores informados.
  */
-public class Exercicio03 {
+public class Cap3Exercicio03 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
             String[] nomeAluno = new String[3];

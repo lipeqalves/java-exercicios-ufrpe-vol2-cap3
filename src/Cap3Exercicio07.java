@@ -14,7 +14,7 @@
  * distância
  * percorrida no trajeto.
  */
-public class Exercicio07 {
+public class Cap3Exercicio07 {
     public static void main(String[] args) {
         
     }

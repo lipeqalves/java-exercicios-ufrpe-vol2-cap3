@@ -7,7 +7,7 @@ import java.util.Scanner;
  * estas entradas, devem ser apresentados quais são os elementos que fazem parte
  * dos dois vetores (vetor interseção).
  */
-public class Exercicio05 {
+public class Cap3Exercicio05 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         System.out.println("Qual o tamho do vetor ");

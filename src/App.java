@@ -10,7 +10,7 @@ public class App {
 
         // Estrutura de repetição para exibir o menu até o usuário escolher sair
         do {
-            System.out.println("\n===== MENU DE EXERCÍCIOS VOL 2 CAP 3=====");
+            System.out.println("\n===== MENU DE EXERCÍCIOS CAP 3=====");
             System.out.println("1 - Exercício 01");
             System.out.println("2 - Exercício 02");
             System.out.println("3 - Exercício 03");
@@ -28,25 +28,25 @@ public class App {
             switch (opcao) {
                 case 1:
                     // Chama o método main da classe Exercicio01
-                    Exercicio01.main(new String[]{});
+                    Cap3Exercicio01.main(new String[]{});
                     break;
                 case 2:
-                    Exercicio02.main(new String[]{});
+                    Cap3Exercicio02.main(new String[]{});
                     break;
                 case 3:
-                    Exercicio03.main(new String[]{});
+                    Cap3Exercicio03.main(new String[]{});
                     break;
                 case 4:
-                    Exercicio04.main(new String[]{});
+                    Cap3Exercicio04.main(new String[]{});
                     break;
                 case 5:
-                    Exercicio05.main(new String[]{});
+                    Cap3Exercicio05.main(new String[]{});
                     break;
                 case 6:
-                    Exercicio06.main(new String[]{});
+                    Cap3Exercicio06.main(new String[]{});
                     break;
                 case 7:
-                    Exercicio07.main(new String[]{});
+                    Cap3Exercicio07.main(new String[]{});
                     break;
                 case 0:
                     // Sai do programa

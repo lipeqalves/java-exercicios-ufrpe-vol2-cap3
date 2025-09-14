@@ -11,7 +11,7 @@ import java.util.Scanner;
  * consulta deve se repetir até que se forneça a palavra “FIM” como nome do
  * aluno.
  */
-public class Exercicio02 {
+public class Cap3Exercicio02 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 
