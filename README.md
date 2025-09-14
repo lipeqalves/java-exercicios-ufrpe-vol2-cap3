@@ -18,7 +18,7 @@ Cada exercício foi implementado em uma classe Java separada, com um menu princi
 
 **Resultado:**
 
-![Exemplo de saída do Exercício 01](imagens/cap3Exercicio01.png)
+![Exemplo de saída do Exercício 01](imagens/Cap3Exercicio01.png)
 
 ---
 
